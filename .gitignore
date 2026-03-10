@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+
+data/*.duckdb
+data/*.wal
+data/*.parquet
+data/profile_*.json
